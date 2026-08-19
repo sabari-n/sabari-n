@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer with 6+ years of experience** building backend platforms, cloud-native applications, distributed systems, and real-time data pipelines.
+I'm a **Senior Software Engineer with 7+ years of experience** building backend platforms, cloud-native applications, distributed systems, and real-time data pipelines.
 
 I currently work primarily around:
 
